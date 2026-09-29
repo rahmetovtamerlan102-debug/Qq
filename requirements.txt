@@ -1,0 +1,5 @@
+aiohttp
+aiosqlite
+asyncpg
+python-dotenv
+telethon==1.40.0
